@@ -30,4 +30,12 @@ public:
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/gargi2007maheshwari-png/Summer_Assignment_2401921530102/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gargi2007maheshwari-png/Summer_Assignment_2401921530102/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gargi2007maheshwari-png/Summer_Assignment_2401921530102/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
